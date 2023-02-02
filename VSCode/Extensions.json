@@ -1,0 +1,4 @@
+{
+    "Quokka.js" : "Used to see the output in the editor itself for JavaScript code",
+    "gitignore": "Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files."
+}
